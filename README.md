@@ -1,4 +1,3 @@
-[![MasterHead](https://depositphotos.com/43853619/stock-photo-word-cloud-programming-languages-or.html)
 <h1 align="center">Hi 👋, I'm Caner ÇAKMAK</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 
