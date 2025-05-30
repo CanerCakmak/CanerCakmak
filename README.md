@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Caner ÇAKMAK</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 
-- 🔭 I’m currently working on **E-Commerce Site**
+- 🔭 I’m currently working on **ILESBUS PANEL*
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **.NET**
 
 - 📝 I regularly write articles on [https://medium.com/@canercakmak](https://medium.com/@canercakmak)
 
